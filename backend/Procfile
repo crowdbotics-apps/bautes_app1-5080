@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bautes_app1_5080.wsgi:application
